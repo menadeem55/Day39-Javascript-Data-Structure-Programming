@@ -1,0 +1,22 @@
+{
+  "name": "day39javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BirthdayMonth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menadeem55/Day39-Javascript-Data-Structure-Programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menadeem55/Day39-Javascript-Data-Structure-Programming/issues"
+  },
+  "homepage": "https://github.com/menadeem55/Day39-Javascript-Data-Structure-Programming#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
